@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_LOG_LEVEL" value="verbose" />
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9810d8b0-03f0-4a6b-84ca-a61b79f2faf8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="ProjectId" id="1vau4kWwBbdBoMOHjese6lggeKb" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/app/src/main/java/mvvm/f4wzy/com/samplelogin/util" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyKotlinDeclarationDialog.RECENTS_KEY">
+      <recent name="mvvm.f4wzy.com.samplelogin.model.current_temperature_responce" />
+      <recent name="mvvm.f4wzy.com.samplelogin.util" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.weatherdemo" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\NewProject2021\SampleDemos\android-kotlin-mvvm-architecture-master\app\src\main\java\mvvm\f4wzy\com\samplelogin\util" />
+      <recent name="E:\NewProject2021\SampleDemos\android-kotlin-mvvm-architecture-master\app\src\main\java\mvvm\f4wzy\com\samplelogin\model\current_temperature_responce" />
+      <recent name="E:\NewProject2021\SampleDemos\android-kotlin-mvvm-architecture-master\app\src\main\res\mipmap-hdpi" />
+      <recent name="E:\NewProject2021\SampleDemos\android-kotlin-mvvm-architecture-master\app\src\main\res\mipmap-xxxhdpi" />
+      <recent name="E:\NewProject2021\SampleDemos\android-kotlin-mvvm-architecture-master\app\src\main\res\mipmap-xxhdpi" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9810d8b0-03f0-4a6b-84ca-a61b79f2faf8" name="Default Changelist" comment="" />
+      <created>1626812331389</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1626812331389</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="423" y="4" key="#com.intellij.ide.util.MemberChooser" timestamp="1626865098310">
+      <screen x="0" y="0" width="1366" height="720" />
+    </state>
+    <state x="423" y="4" key="#com.intellij.ide.util.MemberChooser/0.0.1366.720@0.0.1366.720" timestamp="1626865098310" />
+    <state x="71" y="254" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1626885425187">
+      <screen x="0" y="0" width="1366" height="720" />
+    </state>
+    <state x="71" y="254" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1366.720@0.0.1366.720" timestamp="1626885425187" />
+    <state x="431" y="213" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1626885427475">
+      <screen x="0" y="0" width="1366" height="720" />
+    </state>
+    <state x="431" y="213" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1366.720@0.0.1366.720" timestamp="1626885427475" />
+    <state x="528" y="147" key="AndroidCreateXmlResourceDialog" timestamp="1626870091414">
+      <screen x="0" y="0" width="1366" height="720" />
+    </state>
+    <state x="528" y="147" key="AndroidCreateXmlResourceDialog/0.0.1366.720@0.0.1366.720" timestamp="1626870091414" />
+    <state x="409" y="17" key="FileChooserDialogImpl" timestamp="1626852168682">
+      <screen x="0" y="0" width="1366" height="720" />
+    </state>
+    <state x="409" y="17" key="FileChooserDialogImpl/0.0.1366.720@0.0.1366.720" timestamp="1626852168682" />
+    <state width="1308" height="3" key="GridCell.Tab.0.bottom" timestamp="1626888299932">
+      <screen x="0" y="0" width="1366" height="720" />
+    </state>
+    <state width="1308" height="3" key="GridCell.Tab.0.bottom/0.0.1366.720@0.0.1366.720" timestamp="1626888299932" />
+    <state width="1308" height="3" key="GridCell.Tab.0.center" timestamp="1626888299931">
+      <screen x="0" y="0" width="1366" height="720" />
+    </state>
+    <state width="1308" height="3" key="GridCell.Tab.0.center/0.0.1366.720@0.0.1366.720" timestamp="1626888299931" />
+    <state width="1308" height="3" key="GridCell.Tab.0.left" timestamp="1626888299931">
+      <screen x="0" y="0" width="1366" height="720" />
+    </state>
+    <state width="1308" height="3" key="GridCell.Tab.0.left/0.0.1366.720@0.0.1366.720" timestamp="1626888299931" />
+    <state width="1308" height="3" key="GridCell.Tab.0.right" timestamp="1626888299931">
+      <screen x="0" y="0" width="1366" height="720" />
+    </state>
+    <state width="1308" height="3" key="GridCell.Tab.0.right/0.0.1366.720@0.0.1366.720" timestamp="1626888299931" />
+    <state width="654" height="269" key="GridCell.Tab.1.bottom" timestamp="1626878888851">
+      <screen x="0" y="0" width="1366" height="720" />
+    </state>
+    <state width="654" height="269" key="GridCell.Tab.1.bottom/0.0.1366.720@0.0.1366.720" timestamp="1626878888851" />
+    <state width="654" height="269" key="GridCell.Tab.1.center" timestamp="1626878888851">
+      <screen x="0" y="0" width="1366" height="720" />
+    </state>
+    <state width="654" height="269" key="GridCell.Tab.1.center/0.0.1366.720@0.0.1366.720" timestamp="1626878888851" />
+    <state width="654" height="269" key="GridCell.Tab.1.left" timestamp="1626878888851">
+      <screen x="0" y="0" width="1366" height="720" />
+    </state>
+    <state width="654" height="269" key="GridCell.Tab.1.left/0.0.1366.720@0.0.1366.720" timestamp="1626878888851" />
+    <state width="654" height="269" key="GridCell.Tab.1.right" timestamp="1626878888851">
+      <screen x="0" y="0" width="1366" height="720" />
+    </state>
+    <state width="654" height="269" key="GridCell.Tab.1.right/0.0.1366.720@0.0.1366.720" timestamp="1626878888851" />
+    <state x="453" y="120" key="chooseDestDirectoryDialog" timestamp="1626853487672">
+      <screen x="0" y="0" width="1366" height="720" />
+    </state>
+    <state x="453" y="120" key="chooseDestDirectoryDialog/0.0.1366.720@0.0.1366.720" timestamp="1626853487672" />
+    <state x="259" y="0" width="929" height="772" key="find.popup" timestamp="1626885680593">
+      <screen x="0" y="0" width="1366" height="720" />
+    </state>
+    <state x="259" y="0" width="929" height="772" key="find.popup/0.0.1366.720@0.0.1366.720" timestamp="1626885680593" />
+    <state x="254" y="149" key="run.anything.popup" timestamp="1626853744824">
+      <screen x="0" y="0" width="1366" height="720" />
+    </state>
+    <state x="254" y="149" key="run.anything.popup/0.0.1366.720@0.0.1366.720" timestamp="1626853744824" />
+    <state x="262" y="-1" key="search.everywhere.popup" timestamp="1626882665811">
+      <screen x="0" y="0" width="1366" height="720" />
+    </state>
+    <state x="262" y="-1" key="search.everywhere.popup/0.0.1366.720@0.0.1366.720" timestamp="1626882665811" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/mvvm/f4wzy/com/samplelogin/util/Util.kt</url>
+          <line>17</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/mvvm/f4wzy/com/samplelogin/util/Util.kt</url>
+          <line>19</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/mvvm/f4wzy/com/samplelogin/ui/androidtest/DemoActivity.kt</url>
+          <line>94</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/mvvm/f4wzy/com/samplelogin/ui/androidtest/DemoActivity.kt</url>
+          <line>90</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/mvvm/f4wzy/com/samplelogin/ui/androidtest/DemoActivity.kt</url>
+          <line>89</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/mvvm/f4wzy/com/samplelogin/ui/androidtest/DemoActivity.kt</url>
+          <line>236</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/mvvm/f4wzy/com/samplelogin/ui/androidtest/viewmodel/DemoViewModel.kt</url>
+          <line>55</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/weatherdemo/ui/viewmodel/DemoViewModel.kt</url>
+          <line>75</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-function">
+          <url>file://$PROJECT_DIR$/app/src/main/java/mvvm/f4wzy/com/samplelogin/network/WebServiceClient.kt</url>
+          <line>19</line>
+          <properties class="mvvm.f4wzy.com.samplelogin.network.WebServiceClient" method="getClient">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
